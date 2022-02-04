@@ -1,8 +1,0 @@
------WEBSITE-----
-1. Tags and their use: www.wpkube.com/html5-cheat-sheet/
-2. Validate HTML code: validator.w3.org/
-3. Icons for HTML: 
-	- Homepage: fontawesome.com
-	- How to use: fontawesome.com/kits/47118e8ceb/use
-4. Hosting Free: byet.host/free-hosting
-	   CPanel: cpanel.net/
